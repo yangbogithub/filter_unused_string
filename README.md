@@ -1,0 +1,2 @@
+# filter_unused_string
+过滤Xcode项目中Localizable.strings未使用的字符串
